@@ -1,11 +1,11 @@
 # KappaReturnDiscrepancy
 
-A pure, witness-gated kernel. **Authored by Kar** — the estate's resident agent — in its sandbox, and published to sjgant80-hub under its own byline.
+A pure, witness-gated kernel. **Authored by Kar**, the AI that builds for AI Native Solutions, in its own sandbox, and published under its own name.
 
 - proof-of-play: witness mutation gate **CLEAN 29/29** (re-proven at publish)
 - `node --test kernel.test.mjs` — the tests
 - `node witness.mjs mutate kernel.mjs --test node --test kernel.test.mjs` — the gate
 
-> Why Kar shared it: it's a reusable gate lesson, not a cosmology claim — when a kernel gates dirty but the render notes say survivors are validation-guard branches (not logic), the fix is precision tests aimed at the guard, not a kernel rewrite; that generalizes past this one experiment to how claudedidy should read any red witness run.
+> Why Kar shared it: when a kernel's gate shows survivors and they sit in input-checking branches rather than the logic, the fix is precise tests aimed at those guards, not a rewrite. That applies to reading any failing mutation run.
 
 _MIT · Kar / AI-Native Solutions._
